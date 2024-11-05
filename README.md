@@ -1,22 +1,21 @@
+# notesApp-using-vanillajs
 
-# NoteIt
+NotesApp is a simple note-taking application built with Vanilla JavaScript, HTML, and CSS. This app allows you to create, view, archive, and delete notes efficiently.
 
-[NoteIt](https://appnoteit.netlify.app/) is a super cool note taking app, where you can add quiz or long notes and store it forever. You can use functionalities like pin, unpin and archive to make the most out of it.
+## Features
 
+- **Home**: View all your notes.
+- **Archive**: Store archived notes.
+- **Add Note**: Create a new note with a title.
+- **Deleted Notes**: Manage and view deleted notes.
 
-## List of features
-[Home Page](https://appnoteit.netlify.app/)
-- In the home page, you can add note and also pin and unpin the note
+## Files
 
-Archive Page
-- In the archive page, you can find the notes that you archived
-
-
-## Tech Stack
-
-- HTML/CSS
-- Javascript
-
-
-
+- `index.html`: Main HTML file.
+- `app.js`: JavaScript file for main functionality.
+- `archive.html`: HTML file for viewing archived notes.
+- `archive.js`: JavaScript file for handling archived notes.
+- `main.js`: Additional JavaScript functionality.
+- `style.css`: Main CSS file for styling.
+- `utility.css`: Additional CSS for utilities.
 
